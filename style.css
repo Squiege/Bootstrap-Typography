@@ -1,0 +1,11 @@
+.bg_image {
+    background-image: url('https://i.pinimg.com/564x/ac/a1/6c/aca16c24381a60f56317f16b688b1b2a.jpg');
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
